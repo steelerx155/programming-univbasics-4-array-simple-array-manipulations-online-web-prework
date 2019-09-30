@@ -30,6 +30,7 @@ def using_push(colors_in_the_rainbow, next_color)
    array1.concat(array2)
    end
   
+<<<<<<< HEAD
   def using_insert(array, array2)
   array.insert(4, array2)
   end
@@ -50,3 +51,9 @@ def using_delete(array, steven)
  def using_delete_at(array, integer)
     array.delete_at(-1)
   end
+=======
+  def using_insert(array, array2, array3)
+  array.insert(4, array4)
+  end
+    
+>>>>>>> b1340846e0fbb86decb010c16c77a2eb99043b98
